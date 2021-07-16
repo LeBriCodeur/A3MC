@@ -1,0 +1,29 @@
+version=53;
+class EditorData
+{
+	moveGridStep=1;
+	angleGridStep=0.2617994;
+	scaleGridStep=1;
+	autoGroupingDist=10;
+	toggles=1;
+	class ItemIDProvider
+	{
+		nextID=2;
+	};
+	class Camera
+	{
+		pos[]={8807.0605,29.010027,10094.99};
+		dir[]={-0.026555313,-0.17364821,0.98444974};
+		up[]={-0.0046824184,0.98480767,0.17358507};
+		aside[]={0.99963641,0,0.026964968};
+	};
+};
+binarizationWanted=0;
+class AddonsMetaData
+{
+};
+randomSeed=10696806;
+class ScenarioData
+{
+	author="Aroun MCF";
+};

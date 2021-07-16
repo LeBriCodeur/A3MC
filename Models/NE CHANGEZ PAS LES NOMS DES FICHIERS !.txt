@@ -1,0 +1,2 @@
+Vous pouvez modifier les fichiers mais faites attention, le bon fonctionnement du programme en dépend !
+Gardez une copie avant toute modification !
